@@ -1,0 +1,1 @@
+The project uses OpenCV 2.4.9 API C functions to count people come in or out
